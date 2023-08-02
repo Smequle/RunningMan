@@ -5,6 +5,7 @@ var background2Image;
 
 function preload() {
   manAnimation = loadAnimation("Runner-1.png", "Runner-2.png");
+  background2Image = loadImage("path.png")
 }
 
 function setup() {
